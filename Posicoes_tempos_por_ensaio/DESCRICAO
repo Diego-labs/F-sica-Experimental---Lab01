@@ -1,0 +1,7 @@
+Nos arquivos 'bruto@_M@' estão as posições e tempos, juntamente com suas incertezas. 
+
+O número após a letra "M" indica a aproximação do peso adicional no sistema (5,31 10,52 15,84 21,11 26,21 31,44).
+
+def_incertezas.py - utilizado para encontrar o coeficiente quadrático e sua incerteza.
+
+plot_posicao_tempo.py - plota os pontos experimentais com suas linhas de tendencia.
