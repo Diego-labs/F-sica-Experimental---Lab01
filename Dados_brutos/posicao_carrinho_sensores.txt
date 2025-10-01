@@ -1,0 +1,6 @@
+Posicao	Medida posicao 1 (cm)	Medida posicao 2 (cm)
+1	179,4	
+2	171,45	169
+3	150	148,6
+4	125,5	123,9
+5	105,5	103,9
