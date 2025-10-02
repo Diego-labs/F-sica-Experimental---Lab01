@@ -1,7 +1,9 @@
 import numpy as np
+import os
 
 # pega os dados do arquivo .txt
-dados = np.loadtxt('ensaio1_M5.txt', skiprows=1)
+base_path = os.path.dirname(os.path.abspath(__file__))
+dados = np.loadtxt(os.path.join(base_path, 'ensaio1_M5.txt'), skiprows=1)
 
 # Colunas
 x = dados[:, 2]           # T (s)
